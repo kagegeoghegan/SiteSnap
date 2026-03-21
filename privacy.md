@@ -48,8 +48,4 @@ We may update this policy from time to time. Changes will be reflected by the up
 
 **Contact**
 If you have any questions about this privacy policy, contact us at:
-`[your email address]`
-
----
-
-Just swap in your email at the bottom, paste it into GitHub, enable Pages and you're good to go. Clean, covers everything Apple will check for.
+kggeoghegan@icloud.com
