@@ -1,51 +1,54 @@
-**Privacy Policy — Field Flicks**
-*Last updated: March 21, 2026*
+Privacy Policy for Field Flicks: Unleashed
 
-**Overview**
-Field Flicks is a field photography and project management app built for professionals. We are committed to protecting your privacy. This policy explains what data the app accesses, how it is used, and what is never collected.
+Last updated: March 22, 2026
 
----
+Field Flicks: Unleashed ("the App") is operated as a sole proprietorship. This policy explains what data we collect, how we use it, and your rights.
 
-**Data We Access**
+Information We Collect
 
-**Camera**
-Field Flicks accesses your camera solely to capture photos within the app. Photos are stored locally on your device within the app's project structure.
+Camera & Microphone
+The App requests access to your device's camera and microphone solely to capture photos and videos within the App. This media is stored locally on your device and is never transmitted to our servers.
 
-**Location**
-Field Flicks accesses your device's location to GPS-tag photos at the moment they are captured, and to power the in-app map for dropping field pins and measuring distances. Location data is embedded directly into your photos and stored locally on your device. It is never transmitted to any server operated by Field Flicks.
+Location
+The App requests access to your location to geotag photos and display them on the in-app map. Location data is stored only on your device and in your Google Drive if you choose to sync. We do not collect or transmit location data to any third party.
 
-**Photo Library**
-Field Flicks accesses your photo library only when you explicitly choose to import photos into a project. No photos are read, copied, or transmitted without your direct action.
+Google Drive
+If you choose to connect a Google Account, the App uploads project photos and videos directly to your personal Google Drive. We access only the files the App creates. We do not read, modify, or share any other files in your Drive. Google's privacy policy governs their handling of your data.
 
-**Google Drive**
-Field Flicks integrates with Google Drive to allow you to back up your project photos to your personal Google account. Authentication is handled entirely by Google. Field Flicks only requests the `drive.file` scope, meaning it can only access files it has created — it cannot read, modify, or delete any other content in your Google Drive. Your Google credentials are never seen or stored by Field Flicks.
+Usage Data
+We do not collect analytics, crash reports, or any usage data beyond what Apple provides through the App Store.
 
----
+Subscriptions & Billing
 
-**Data We Do Not Collect**
-- We do not collect analytics or usage data
-- We do not use advertising or tracking SDKs
-- We do not store any data on our own servers
-- We do not share any data with third parties
-- We do not have access to your photos, location, or Google account
+Field Flicks Pro is offered as an auto-renewable subscription with the following options:
 
----
+Monthly: $1.99 per month
+Annual: $14.99 per year
+Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription at any time in your device Settings → Apple ID → Subscriptions. No refunds are provided for partial subscription periods.
 
-**Third Party Services**
-Field Flicks uses the Google Drive API and Google Sign-In, which are governed by [Google's Privacy Policy](https://policies.google.com/privacy).
+A free tier is available allowing up to 5 lifetime projects without a subscription.
 
----
+Data Storage
 
-**Children's Privacy**
-Field Flicks is not directed at children under 13 and does not knowingly collect any information from children.
+All project data — photos, videos, notes, and metadata — is stored locally on your device. If you use Google Drive sync, your data is additionally stored in your personal Google Drive account under your control. We do not operate servers that store your content.
 
----
+The App uses iCloud Key-Value Storage solely to track your lifetime project count across devices. No personal content is stored in iCloud.
 
-**Changes to This Policy**
-We may update this policy from time to time. Changes will be reflected by the updated date at the top of this page.
+Third-Party Services
 
----
+The App integrates with Google Drive (Google LLC). Use of Google Drive is subject to Google's Privacy Policy.
 
-**Contact**
-If you have any questions about this privacy policy, contact us at:
+All subscription billing is handled by Apple Inc. through the App Store. We do not process or store payment information.
+
+Children's Privacy
+
+The App is not directed at children under 13 and we do not knowingly collect information from children.
+
+Changes to This Policy
+
+We may update this policy from time to time. Continued use of the App after changes constitutes acceptance of the updated policy. The "last updated" date at the top will always reflect the most recent version.
+
+Contact
+
+If you have questions about this policy, contact us at:
 kggeoghegan@icloud.com
