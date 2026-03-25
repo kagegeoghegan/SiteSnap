@@ -1,27 +1,33 @@
-Support - Field Flicks
+SiteSnap: Pro — Support
 
-Need help? We're here.
+Getting Started
 
-Email us at: kggeoghegan@icloud.com We typically respond within 1–2 business days.
+Create a project from the Projects screen, then tap the camera icon to start capturing photos and videos. Everything saves directly to that project.
 
-Frequently Asked Questions
+File Naming
 
-How do I create a project? Tap the + button on the Projects screen to create a new project. Give it a name and start capturing or importing photos.
+Tap any filename in the project view to rename it. Names carry through to all exports and cloud sync.
 
-How do I take photos within the app? Open a project and tap the camera icon in the top right corner. Photos captured this way are automatically GPS-tagged and saved directly to your project.
+Google Drive and OneDrive Sync
 
-How do I import existing photos? Open a project, switch to the Select tab, and tap Import. Choose photos from your library — any photos with GPS data will automatically appear on your project map.
+Tap the cloud icon, sign in, and select a destination folder. Tap Export to upload the entire project in the background. You can lock your phone and the upload will continue.
 
-How do I connect Google Drive? Tap the cloud icon on the Projects screen to open Auto Drive. Tap Connect Google Account and sign in. Once connected, open any project and tap the cloud icon to sync it to your Drive.
+Site Plans and Map
 
-How do I access my synced photos on my computer? Install the Google Drive desktop app on your Mac or PC. Your synced project folders will appear as a local folder automatically - no manual downloading needed.
+Open the Plan tab inside any project to access the full field map. Long-press to drop a pin, tap the ruler to measure, and use the Plans overlay to draw site boundaries directly on satellite imagery.
 
-How do I use the map? Open any project and tap the map icon in the bottom left corner. From there you can drop field pins, search addresses, measure distances, toggle photo locations, and switch basemap styles.
+Photo Annotation
 
-How do I drop a pin on the map? Press and hold anywhere on the map to drop a field pin. Tap the pin to get directions or remove it. Hold the pin to edit its name, color, size, and radius.
+Open any photo and tap the pencil icon to annotate. Draw shapes, add text, and choose colors and stroke weights. Annotations are non-destructive — you can return to edit or delete individual shapes at any time.
 
-Why don't all my photos appear on the map? Only photos with GPS coordinates appear on the map. Photos captured in-app are always GPS-tagged. Imported photos will appear if they contain location data in their EXIF metadata.
+Video Trimming
 
-How do I measure distances on the map? Tap the ruler button in the bottom right of the map. Then tap points on the map to build a measurement path. The total distance updates in real time.
+Tap any video to open it, then tap Edit to trim to the exact clip you need.
 
-Privacy View our full privacy policy at: https://kagegeoghegan.github.io/field-flicks-privacy/
+Subscription
+
+SiteSnap: Pro is available as a subscription. You can manage or cancel your subscription at any time through your Apple ID settings.
+
+Contact Support
+
+Email: kggeoghegan@icloud.com
